@@ -1,6 +1,6 @@
 ## How to Install
 ```
-curl -LO https://raw.githubusercontent.com/Michael-Sebero/PrivateGPT4Linux/main/files/installers/installer.sh
+curl -LO https://raw.githubusercontent.com/taylortek91/PrivateGPT4Arch/refs/heads/main/files/installers/installer.sh
 
 sh installer.sh
 ```
